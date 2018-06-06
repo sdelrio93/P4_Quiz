@@ -321,8 +321,8 @@ const makeQuestion = (rl,text) => {
  */
  exports.creditsCmd =(socket,rl)  => {
  		log(socket,'Autores de la práctica:');
-  		log(socket,'	1) DANIEL DE LA TORRE LAZARO');
-  		log(socket,'	2) PABLO PLANELLO SAN SEGUNDO');
+  		log(socket,'SERGIO DEL RIO LAS HERAS');
+  		
   		rl.prompt();
  };
 
